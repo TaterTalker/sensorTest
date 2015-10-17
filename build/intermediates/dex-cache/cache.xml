@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\sensorTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-67489a6a6c9afe5e067264538b50ad198c1dfa1f.jar" />
+    </item>
+    <item
+        jar="F:\sensorTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\sensorTest\app\build\intermediates\pre-dexed\debug\classes-aa61f700f4801c45ec4544eaa1edf3aecd7d2c7c.jar" />
+    </item>
+    <item
+        jar="F:\sensorTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\sensorTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-256f6c9143284ffe216573c4c491a8096443e0c3.jar" />
+    </item>
+    <item
+        jar="F:\sensorTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\sensorTest\app\build\intermediates\pre-dexed\debug\classes-66f7e3f50760f2101f9249a630e401b400ca285b.jar" />
+    </item>
+
+</items>
